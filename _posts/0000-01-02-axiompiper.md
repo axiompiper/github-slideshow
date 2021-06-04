@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+When shit becomes valuable the poor will be born without assholes
 Use the left arrow to go back!
